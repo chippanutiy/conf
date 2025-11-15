@@ -1,2 +1,2 @@
 package,repo_url,test_repo_path,test_mode,ascii_tree,max_depth,render_d2
-bash,https://deb.debian.org/debian/dists/stable/main/binary-amd64/Packages.gz,,,no,0,no
+A,,test_repo/packages.txt,yes,true,3,true
